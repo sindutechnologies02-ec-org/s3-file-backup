@@ -40,3 +40,7 @@ This project is a **Secure File Backup System** that automatically uploads files
 
 ```bash
 python backup_to_s3.py
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
